@@ -49,10 +49,5 @@ This is a simple application for managing student records built with Spring Boot
 5. Build the project using Maven.
 6. Run the application.
 
-**Note** : This repository also contains a version of the student management system implemented with Spring. If you prefer the Spring version, please refer to the appropriate directory.
 
-## Contact
-- **Name:** Aymane Maghouti
-- **Email:** aymanemaghouti16@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
 
